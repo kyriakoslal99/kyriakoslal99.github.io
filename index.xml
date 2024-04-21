@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fraud detection</title>
+    <title>Kyriakos Lalousis</title>
     <link>http://localhost:4321/</link>
       <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
-    <description>Fraud detection</description>
+    <description>Kyriakos Lalousis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Fraud detection</title>
+      <title>Kyriakos Lalousis</title>
       <link>http://localhost:4321/</link>
     </image>
     
@@ -77,6 +77,22 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;academic import &lt;span class=&#34;s1&#34;&gt;&amp;#39;notebooks/**.ipynb&amp;#39;&lt;/span&gt; content/post/ --verbose
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code&gt;content/post/&lt;/code&gt; folder.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A stochastic dynamical model for epidemic nowcasting and forecasting</title>
+      <link>http://localhost:4321/publication/epidemics_forecasting/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/epidemics_forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks and machine learning to detect Value Added Tax fraud</title>
+      <link>http://localhost:4321/publication/vat/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/vat/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -304,7 +320,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-356218794&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-675214389&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -314,7 +330,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-356218794&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-675214389&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
