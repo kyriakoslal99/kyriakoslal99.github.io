@@ -20,5 +20,53 @@
       <description></description>
     </item>
     
+    <item>
+      <title>A machine learning approach to construct quarterly data on intangible investment for Eurozone</title>
+      <link>http://localhost:4321/publication/intangible/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/intangible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian multivariate factor analysis model for causal inference using time series observational data on mixed outcomes</title>
+      <link>http://localhost:4321/publication/causal_ltp/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/causal_ltp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance reduction for Metropolis-Hastings samplers</title>
+      <link>http://localhost:4321/publication/variance_reduction/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/variance_reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian prediction of jumps in large panels of time series data</title>
+      <link>http://localhost:4321/publication/jumps/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/jumps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Variable Selection for Gaussian copula regression models</title>
+      <link>http://localhost:4321/publication/bvs_copula/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/bvs_copula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
+      <link>http://localhost:4321/publication/mortality/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/mortality/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
