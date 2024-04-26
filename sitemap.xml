@@ -102,19 +102,19 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:4321/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/r-markdown/</loc>
+    <loc>http://localhost:4321/tag/snow/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/regression/</loc>
+    <loc>http://localhost:4321/tag/tours/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/travelling/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
